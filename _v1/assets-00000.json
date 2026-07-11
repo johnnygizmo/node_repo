@@ -1,0 +1,1130 @@
+{
+  "asset_count": 43,
+  "file_count": 10,
+  "assets": [
+    {
+      "name": "Boolean - Difference Collection",
+      "id_type": "NODETREE",
+      "files": [
+        "BooleanAll.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "BooleanAll_thumbnails/Nodetree/boolean-difference-collection.webp",
+        "hash": "SHA256:a56a16b4acee36c4c906d136a408174eaade517bf8c62aa63fa29cf289c43cc1"
+      },
+      "meta": {
+        "catalog_id": "71777356-8bbe-4c8e-870f-a4e4c19b823d",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          },
+          {
+            "name": "geometry_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 64
+          }
+        ]
+      }
+    },
+    {
+      "name": "Boolean - Self Union",
+      "id_type": "NODETREE",
+      "files": [
+        "BooleanAll.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "BooleanAll_thumbnails/Nodetree/boolean-self-union.webp",
+        "hash": "SHA256:2642c31717ac7641a26eda4405bbe595ce51633b7fba1f9cee42216370ff05e1"
+      },
+      "meta": {
+        "catalog_id": "71777356-8bbe-4c8e-870f-a4e4c19b823d",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          },
+          {
+            "name": "geometry_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 2113
+          }
+        ]
+      }
+    },
+    {
+      "name": "Boolean - Union Collection",
+      "id_type": "NODETREE",
+      "files": [
+        "BooleanAll.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "BooleanAll_thumbnails/Nodetree/boolean-union-collection.webp",
+        "hash": "SHA256:6bc5c5012d4ab9c3dba13b3fc417e1d0e047e5315e2e4fc76e4719f7db2a1ed7"
+      },
+      "meta": {
+        "catalog_id": "71777356-8bbe-4c8e-870f-a4e4c19b823d",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          },
+          {
+            "name": "geometry_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 64
+          }
+        ]
+      }
+    },
+    {
+      "name": "Boolean -Self & U/D Collections",
+      "id_type": "NODETREE",
+      "files": [
+        "BooleanAll.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "BooleanAll_thumbnails/Nodetree/boolean-self-ud-collections.webp",
+        "hash": "SHA256:284edc2ec4a16bcac8cdb34c5eba3bb8ac30006a3056672679b8a10416fd6382"
+      },
+      "meta": {
+        "catalog_id": "71777356-8bbe-4c8e-870f-a4e4c19b823d",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          },
+          {
+            "name": "geometry_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 64
+          }
+        ]
+      }
+    },
+    {
+      "name": "Figure 8 Knot",
+      "id_type": "NODETREE",
+      "files": [
+        "Curves/TorusKnot.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Curves/TorusKnot_thumbnails/Nodetree/figure-8-knot.webp",
+        "hash": "SHA256:888f9c6fc3d3f2986a2b070429db84eb56778a354717ab9180ef2e206facab1a"
+      },
+      "meta": {
+        "catalog_id": "45a454f8-a95f-4f71-8814-d6e26a7be557",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          },
+          {
+            "name": "geometry_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 64
+          },
+          {
+            "name": "node_tool_idname",
+            "type": "IDP_STRING",
+            "value": "geometry.figure_8_knot"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Lissajous knot",
+      "id_type": "NODETREE",
+      "files": [
+        "Curves/TorusKnot.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Curves/TorusKnot_thumbnails/Nodetree/lissajous-knot.webp",
+        "hash": "SHA256:faba1ba65b5776ec28a6303b1ab6fb70ad563f3a799a004adf80db729de51655"
+      },
+      "meta": {
+        "catalog_id": "45a454f8-a95f-4f71-8814-d6e26a7be557",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          },
+          {
+            "name": "geometry_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 64
+          },
+          {
+            "name": "node_tool_idname",
+            "type": "IDP_STRING",
+            "value": "geometry.lissajous_knot"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Torus Knot",
+      "id_type": "NODETREE",
+      "files": [
+        "Curves/TorusKnot.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Curves/TorusKnot_thumbnails/Nodetree/torus-knot.webp",
+        "hash": "SHA256:890422b741dc2540291ca423f4eec75f10ed343afe74a917e3a085ae3f882be8"
+      },
+      "meta": {
+        "catalog_id": "45a454f8-a95f-4f71-8814-d6e26a7be557",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          },
+          {
+            "name": "geometry_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 64
+          },
+          {
+            "name": "node_tool_idname",
+            "type": "IDP_STRING",
+            "value": "geometry.torus_knot"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Trefoil Knot",
+      "id_type": "NODETREE",
+      "files": [
+        "Curves/TorusKnot.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Curves/TorusKnot_thumbnails/Nodetree/trefoil-knot.webp",
+        "hash": "SHA256:ecabbfd0e284aa4f815cc5889fd308f020a6a940702351a16365ea48d56bd1f7"
+      },
+      "meta": {
+        "catalog_id": "45a454f8-a95f-4f71-8814-d6e26a7be557",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          },
+          {
+            "name": "geometry_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 64
+          },
+          {
+            "name": "node_tool_idname",
+            "type": "IDP_STRING",
+            "value": "geometry.trefoil_knot"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Floorplanner",
+      "id_type": "NODETREE",
+      "files": [
+        "Floorplanner/FloorPlanner3.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Floorplanner/FloorPlanner3_thumbnails/Nodetree/floorplanner.webp",
+        "hash": "SHA256:ea1f9b768155829cdf44cf72c5e8a01a38abe3fdd636ce8d6f5724e7daadfdfc"
+      },
+      "meta": {
+        "catalog_id": "28df526e-d36e-4632-adb0-80e25e2528df",
+        "description": "3.0.0",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          },
+          {
+            "name": "geometry_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 64
+          },
+          {
+            "name": "node_tool_idname",
+            "type": "IDP_STRING",
+            "value": "geometry.floorplanner"
+          }
+        ]
+      }
+    },
+    {
+      "name": "AutoTrack",
+      "id_type": "NODETREE",
+      "files": [
+        "OtherNodes/AutoTrack.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "eb878804-2156-40c0-956f-6933442376e7",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          },
+          {
+            "name": "geometry_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 64
+          },
+          {
+            "name": "node_tool_idname",
+            "type": "IDP_STRING",
+            "value": "geometry.autotrack"
+          }
+        ]
+      }
+    },
+    {
+      "name": "AutoWheel",
+      "id_type": "NODETREE",
+      "files": [
+        "OtherNodes/AutoWheel.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "eb878804-2156-40c0-956f-6933442376e7",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          },
+          {
+            "name": "geometry_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 64
+          },
+          {
+            "name": "node_tool_idname",
+            "type": "IDP_STRING",
+            "value": "geometry.autowheel"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Mobius",
+      "id_type": "NODETREE",
+      "files": [
+        "OtherNodes/Mobius1.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "eb878804-2156-40c0-956f-6933442376e7",
+        "author": "Johnny Matthews",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          },
+          {
+            "name": "node_tool_idname",
+            "type": "IDP_STRING",
+            "value": "geometry.mobius"
+          },
+          {
+            "name": "geometry_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 64
+          }
+        ]
+      }
+    },
+    {
+      "name": "Between",
+      "id_type": "NODETREE",
+      "files": [
+        "OtherNodes/Multiplexv2.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "71777356-8bbe-4c8e-870f-a4e4c19b823d",
+        "author": "Johnny Matthews",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Multilplex - Parallel Add",
+      "id_type": "NODETREE",
+      "files": [
+        "OtherNodes/Multiplexv2.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "71777356-8bbe-4c8e-870f-a4e4c19b823d",
+        "author": "Johnny Matthews",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Multilplex - Parallel Divide",
+      "id_type": "NODETREE",
+      "files": [
+        "OtherNodes/Multiplexv2.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "71777356-8bbe-4c8e-870f-a4e4c19b823d",
+        "author": "Johnny Matthews",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Multilplex - Parallel Multiply",
+      "id_type": "NODETREE",
+      "files": [
+        "OtherNodes/Multiplexv2.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "71777356-8bbe-4c8e-870f-a4e4c19b823d",
+        "author": "Johnny Matthews",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Multilplex - Parallel Subtract",
+      "id_type": "NODETREE",
+      "files": [
+        "OtherNodes/Multiplexv2.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "71777356-8bbe-4c8e-870f-a4e4c19b823d",
+        "author": "Johnny Matthews",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Multiplex Add",
+      "id_type": "NODETREE",
+      "files": [
+        "OtherNodes/Multiplexv2.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "71777356-8bbe-4c8e-870f-a4e4c19b823d",
+        "author": "Johnny Matthews",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Multiplex AND",
+      "id_type": "NODETREE",
+      "files": [
+        "OtherNodes/Multiplexv2.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "71777356-8bbe-4c8e-870f-a4e4c19b823d",
+        "author": "Johnny Matthews",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Multiplex Divide",
+      "id_type": "NODETREE",
+      "files": [
+        "OtherNodes/Multiplexv2.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "71777356-8bbe-4c8e-870f-a4e4c19b823d",
+        "author": "Johnny Matthews",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Multiplex Equal",
+      "id_type": "NODETREE",
+      "files": [
+        "OtherNodes/Multiplexv2.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "71777356-8bbe-4c8e-870f-a4e4c19b823d",
+        "author": "Johnny Matthews",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Multiplex If Else Float",
+      "id_type": "NODETREE",
+      "files": [
+        "OtherNodes/Multiplexv2.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "71777356-8bbe-4c8e-870f-a4e4c19b823d",
+        "author": "Johnny Matthews",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Multiplex If Else Geometry",
+      "id_type": "NODETREE",
+      "files": [
+        "OtherNodes/Multiplexv2.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "71777356-8bbe-4c8e-870f-a4e4c19b823d",
+        "author": "Johnny Matthews",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          },
+          {
+            "name": "node_tool_idname",
+            "type": "IDP_STRING",
+            "value": "geometry.multiplex_if_else_geometry"
+          },
+          {
+            "name": "geometry_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 64
+          }
+        ]
+      }
+    },
+    {
+      "name": "Multiplex If Else Int",
+      "id_type": "NODETREE",
+      "files": [
+        "OtherNodes/Multiplexv2.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "71777356-8bbe-4c8e-870f-a4e4c19b823d",
+        "author": "Johnny Matthews",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Multiplex If Else String",
+      "id_type": "NODETREE",
+      "files": [
+        "OtherNodes/Multiplexv2.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "71777356-8bbe-4c8e-870f-a4e4c19b823d",
+        "author": "Johnny Matthews",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Multiplex If Else Vector",
+      "id_type": "NODETREE",
+      "files": [
+        "OtherNodes/Multiplexv2.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "71777356-8bbe-4c8e-870f-a4e4c19b823d",
+        "author": "Johnny Matthews",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Multiplex Multiply",
+      "id_type": "NODETREE",
+      "files": [
+        "OtherNodes/Multiplexv2.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "71777356-8bbe-4c8e-870f-a4e4c19b823d",
+        "author": "Johnny Matthews",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Multiplex Not Equal",
+      "id_type": "NODETREE",
+      "files": [
+        "OtherNodes/Multiplexv2.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "71777356-8bbe-4c8e-870f-a4e4c19b823d",
+        "author": "Johnny Matthews",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Multiplex OR",
+      "id_type": "NODETREE",
+      "files": [
+        "OtherNodes/Multiplexv2.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "71777356-8bbe-4c8e-870f-a4e4c19b823d",
+        "author": "Johnny Matthews",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Multiplex Random Bool",
+      "id_type": "NODETREE",
+      "files": [
+        "OtherNodes/Multiplexv2.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "71777356-8bbe-4c8e-870f-a4e4c19b823d",
+        "author": "Johnny Matthews",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Multiplex Random Float",
+      "id_type": "NODETREE",
+      "files": [
+        "OtherNodes/Multiplexv2.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "71777356-8bbe-4c8e-870f-a4e4c19b823d",
+        "author": "Johnny Matthews",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Multiplex Random Integer.001",
+      "id_type": "NODETREE",
+      "files": [
+        "OtherNodes/Multiplexv2.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "71777356-8bbe-4c8e-870f-a4e4c19b823d",
+        "author": "Johnny Matthews",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Multiplex Random Vector",
+      "id_type": "NODETREE",
+      "files": [
+        "OtherNodes/Multiplexv2.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "71777356-8bbe-4c8e-870f-a4e4c19b823d",
+        "author": "Johnny Matthews",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Multiplex Sample",
+      "id_type": "NODETREE",
+      "files": [
+        "OtherNodes/Multiplexv2.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "71777356-8bbe-4c8e-870f-a4e4c19b823d",
+        "author": "Johnny Matthews",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Multiplex Subtract",
+      "id_type": "NODETREE",
+      "files": [
+        "OtherNodes/Multiplexv2.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "71777356-8bbe-4c8e-870f-a4e4c19b823d",
+        "author": "Johnny Matthews",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Multiplex Vector Add",
+      "id_type": "NODETREE",
+      "files": [
+        "OtherNodes/Multiplexv2.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "71777356-8bbe-4c8e-870f-a4e4c19b823d",
+        "author": "Johnny Matthews",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Multiplex Vector Divide",
+      "id_type": "NODETREE",
+      "files": [
+        "OtherNodes/Multiplexv2.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "71777356-8bbe-4c8e-870f-a4e4c19b823d",
+        "author": "Johnny Matthews",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Multiplex Vector Multiply",
+      "id_type": "NODETREE",
+      "files": [
+        "OtherNodes/Multiplexv2.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "71777356-8bbe-4c8e-870f-a4e4c19b823d",
+        "author": "Johnny Matthews",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Multiplex Vector Ops",
+      "id_type": "NODETREE",
+      "files": [
+        "OtherNodes/Multiplexv2.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "71777356-8bbe-4c8e-870f-a4e4c19b823d",
+        "author": "Johnny Matthews",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Multiplex Vector Subtract",
+      "id_type": "NODETREE",
+      "files": [
+        "OtherNodes/Multiplexv2.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "71777356-8bbe-4c8e-870f-a4e4c19b823d",
+        "author": "Johnny Matthews",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Solidify Mesh",
+      "id_type": "NODETREE",
+      "files": [
+        "OtherNodes/SolidifyNode.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "b7f1dd7b-ae5a-4678-91f1-9ce8e957e49f",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          },
+          {
+            "name": "geometry_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 64
+          }
+        ]
+      }
+    },
+    {
+      "name": "Text Nodes 5.2",
+      "id_type": "NODETREE",
+      "files": [
+        "TextNodes/TextNodes-5.2.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "TextNodes/TextNodes-5.2_thumbnails/Nodetree/text-nodes-52.webp",
+        "hash": "SHA256:5094a0d274fc68cf520a179d5b70a1ca10608337a6980416239ab1d341018889"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          },
+          {
+            "name": "geometry_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 64
+          }
+        ]
+      }
+    },
+    {
+      "name": "Text Maker for 5.1",
+      "id_type": "NODETREE",
+      "files": [
+        "TextNodes/TextNodes.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "TextNodes/TextNodes_thumbnails/Nodetree/text-maker-for-51.webp",
+        "hash": "SHA256:ea0b8f7523132852fc2f965fad29fe2c5172c6a9f34a16e147c5b54e3affe180"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          },
+          {
+            "name": "geometry_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 2112
+          },
+          {
+            "name": "node_tool_idname",
+            "type": "IDP_STRING",
+            "value": "geometry.text_maker"
+          }
+        ]
+      }
+    }
+  ],
+  "files": [
+    {
+      "path": "BooleanAll.blend",
+      "size_in_bytes": 674450,
+      "hash": "SHA256:3cdd3cffb85b0c1844781259b43cabe629d014fda4296f7b40a7b14a767f3c61",
+      "blender_version": "5.2.44"
+    },
+    {
+      "path": "Curves/TorusKnot.blend",
+      "size_in_bytes": 393996,
+      "hash": "SHA256:78a54e03b1e486c16c5a8e3e4983b71a1e86b2af6fa2e5a1626bd1007d487336",
+      "blender_version": "5.2.44"
+    },
+    {
+      "path": "Floorplanner/FloorPlanner3.blend",
+      "size_in_bytes": 17867882,
+      "hash": "SHA256:7a4ba69e87f4319aee9e06a43345854e7b4964aad4ae924523523ea7b961502a",
+      "blender_version": "5.2.44"
+    },
+    {
+      "path": "OtherNodes/AutoTrack.blend",
+      "size_in_bytes": 1425958,
+      "hash": "SHA256:ab6d08d5c4d8f80908e97b183fc35f335faf738779f49b0edb28c6d1f9ba9e16",
+      "blender_version": "5.2.44"
+    },
+    {
+      "path": "OtherNodes/AutoWheel.blend",
+      "size_in_bytes": 2010217,
+      "hash": "SHA256:9b9d0ead6c739fcab76b6db19e767d3b8b83f7dc9765309eb6727be047f9e5dc",
+      "blender_version": "5.2.44"
+    },
+    {
+      "path": "OtherNodes/Mobius1.blend",
+      "size_in_bytes": 1499698,
+      "hash": "SHA256:ee01843d1f743bf365b4fc48cd101a1124df4d0a5ce2f5ef9e9064aa1d620a1a",
+      "blender_version": "5.2.44"
+    },
+    {
+      "path": "OtherNodes/Multiplexv2.blend",
+      "size_in_bytes": 2453163,
+      "hash": "SHA256:a7dd9ce34c17c960964a105f2994fa93f93ac4f6bd83aa72f61c591fb8e4c6dc",
+      "blender_version": "5.2.44"
+    },
+    {
+      "path": "OtherNodes/SolidifyNode.blend",
+      "size_in_bytes": 111196,
+      "hash": "SHA256:e25833c2c42d87a75758dd919e2fc15a04e9500bd93c9240d3d96a12ca04f491",
+      "blender_version": "5.2.44"
+    },
+    {
+      "path": "TextNodes/TextNodes-5.2.blend",
+      "size_in_bytes": 364053,
+      "hash": "SHA256:0fc5ca6a6e4e4918852e8ea625b67cdd817320cb2d238b25d757f705e7336573",
+      "blender_version": "5.2.44"
+    },
+    {
+      "path": "TextNodes/TextNodes.blend",
+      "size_in_bytes": 381648,
+      "hash": "SHA256:99c68c31eca8e1fdf7063a1f8cb49ab9103315d0d463018800534887c5ce88a7",
+      "blender_version": "5.2.42"
+    }
+  ]
+}
