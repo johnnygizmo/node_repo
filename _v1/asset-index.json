@@ -1,22 +1,15 @@
 {
   "schema_version": "1.0.0",
-  "asset_size_bytes": 20934341,
+  "asset_size_bytes": 20393635,
   "asset_count": 13,
   "file_count": 7,
   "pages": [
     {
       "url": "_v1/assets-00000.json",
-      "hash": "SHA256:af048ee61b685c4bb24b5a65b14511a3560e5a3d6d875bbc43151545b89e7d54"
+      "hash": "SHA256:f77bbee932667aa5e7d304b9eea898f730f5dba00283e04c0b670414cad43162"
     }
   ],
   "catalogs": [
-    {
-      "path": "Cloth Dynamics",
-      "uuids": [
-        "1bdb5df9-3fef-413d-8d4c-e68338c53d96"
-      ],
-      "simple_name": "Cloth Dynamics"
-    },
     {
       "path": "Nodes",
       "uuids": [
@@ -25,6 +18,13 @@
         "eb878804-2156-40c0-956f-6933442376e7"
       ],
       "simple_name": "Nodes"
+    },
+    {
+      "path": "Nodes/Cloth",
+      "uuids": [
+        "9f0c4a7e-bdbc-4fda-b394-59576020e104"
+      ],
+      "simple_name": "Nodes-Cloth"
     },
     {
       "path": "Nodes/Curves",

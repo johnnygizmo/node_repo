@@ -132,7 +132,7 @@
         "hash": "SHA256:8474f84ccc5ecd7a3f856fdbf7cea7126a2133c662c1b627ebefb6cbe95e85d5"
       },
       "meta": {
-        "catalog_id": "1bdb5df9-3fef-413d-8d4c-e68338c53d96",
+        "catalog_id": "9f0c4a7e-bdbc-4fda-b394-59576020e104",
         "properties": [
           {
             "name": "type",
@@ -415,8 +415,8 @@
     },
     {
       "path": "Cloth/Pressure.blend",
-      "size_in_bytes": 1133222,
-      "hash": "SHA256:4850772fc63b3bb7e612a89751661c3f78ea5303124a4ecd8cb3b0d6c39640c9",
+      "size_in_bytes": 592516,
+      "hash": "SHA256:ef34e298c0828d4f180c597bf037ef393feaf03f56fd644dbb069abda8064707",
       "blender_version": "5.2.44"
     },
     {
