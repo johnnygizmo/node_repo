@@ -1,12 +1,12 @@
 {
   "schema_version": "1.0.0",
-  "asset_size_bytes": 20393635,
+  "asset_size_bytes": 20393853,
   "asset_count": 13,
   "file_count": 7,
   "pages": [
     {
       "url": "_v1/assets-00000.json",
-      "hash": "SHA256:f77bbee932667aa5e7d304b9eea898f730f5dba00283e04c0b670414cad43162"
+      "hash": "SHA256:d5dc10a135b2aa23b98014a13bb8c0282bb6ca49867f36b2462648f24d747a10"
     }
   ],
   "catalogs": [
@@ -18,6 +18,13 @@
         "eb878804-2156-40c0-956f-6933442376e7"
       ],
       "simple_name": "Nodes"
+    },
+    {
+      "path": "Nodes/Boolean",
+      "uuids": [
+        "d3d8d449-f1c1-434d-a2c8-8e07c211bdcb"
+      ],
+      "simple_name": "Nodes-Boolean"
     },
     {
       "path": "Nodes/Cloth",
