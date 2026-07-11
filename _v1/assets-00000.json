@@ -356,6 +356,7 @@
         "hash": "SHA256:5094a0d274fc68cf520a179d5b70a1ca10608337a6980416239ab1d341018889"
       },
       "meta": {
+        "catalog_id": "ce700cd1-7898-4101-9d91-9db0315dcc7c",
         "properties": [
           {
             "name": "type",
@@ -384,6 +385,7 @@
         "hash": "SHA256:ea0b8f7523132852fc2f965fad29fe2c5172c6a9f34a16e147c5b54e3affe180"
       },
       "meta": {
+        "catalog_id": "ce700cd1-7898-4101-9d91-9db0315dcc7c",
         "properties": [
           {
             "name": "type",
@@ -437,15 +439,15 @@
     },
     {
       "path": "TextNodes/TextNodes-5.2.blend",
-      "size_in_bytes": 364053,
-      "hash": "SHA256:0fc5ca6a6e4e4918852e8ea625b67cdd817320cb2d238b25d757f705e7336573",
+      "size_in_bytes": 361443,
+      "hash": "SHA256:94df4e6c9aaad9837040a094dfdaf70835fd285f6656f9ff9c65eb41019a4dec",
       "blender_version": "5.2.44"
     },
     {
       "path": "TextNodes/TextNodes.blend",
-      "size_in_bytes": 381648,
-      "hash": "SHA256:99c68c31eca8e1fdf7063a1f8cb49ab9103315d0d463018800534887c5ce88a7",
-      "blender_version": "5.2.42"
+      "size_in_bytes": 382781,
+      "hash": "SHA256:4cbd1f8f213192d40f198662204499932cbfd0acd3feccfc778cf714a9a73029",
+      "blender_version": "5.2.44"
     }
   ]
 }
