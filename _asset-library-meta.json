@@ -2,13 +2,13 @@
   "api_versions": {
     "v1": {
       "url": "_v1/asset-index.json",
-      "hash": "SHA256:e776ee0ada75024b3d6c127f89d478b7376c472b2f999288181870b39ebc0123"
+      "hash": "SHA256:a3fb2a6bd17a4deaf4193b8cfe323e5462f8b34fb69ac5218268760671cb2430"
     }
   },
-  "name": "Your Asset Library",
+  "name": "Johnnygizmo's Node Library",
   "contact": {
-    "name": "Your Name",
-    "url": "https://example.org/",
-    "email": "example@example.org"
+    "name": "Johnny Matthews",
+    "url": "https://youtube.com/@johnnymatthews",
+    "email": "johnny.matthews+nodes@gmail.com"
   }
 }

@@ -1,6 +1,6 @@
 {
-  "asset_count": 12,
-  "file_count": 6,
+  "asset_count": 13,
+  "file_count": 7,
   "assets": [
     {
       "name": "Boolean - Difference Collection",
@@ -114,6 +114,30 @@
             "name": "geometry_node_asset_traits_flag",
             "type": "IDP_INT",
             "value": 64
+          }
+        ]
+      }
+    },
+    {
+      "name": "Cloth Pressure Effector",
+      "id_type": "NODETREE",
+      "files": [
+        "Cloth/Pressure.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Cloth/Pressure_thumbnails/Nodetree/cloth-pressure-effector.webp",
+        "hash": "SHA256:8474f84ccc5ecd7a3f856fdbf7cea7126a2133c662c1b627ebefb6cbe95e85d5"
+      },
+      "meta": {
+        "catalog_id": "1bdb5df9-3fef-413d-8d4c-e68338c53d96",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
           }
         ]
       }
@@ -385,6 +409,12 @@
       "path": "BooleanAll.blend",
       "size_in_bytes": 674450,
       "hash": "SHA256:3cdd3cffb85b0c1844781259b43cabe629d014fda4296f7b40a7b14a767f3c61",
+      "blender_version": "5.2.44"
+    },
+    {
+      "path": "Cloth/Pressure.blend",
+      "size_in_bytes": 1133222,
+      "hash": "SHA256:4850772fc63b3bb7e612a89751661c3f78ea5303124a4ecd8cb3b0d6c39640c9",
       "blender_version": "5.2.44"
     },
     {

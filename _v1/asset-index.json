@@ -1,15 +1,22 @@
 {
   "schema_version": "1.0.0",
-  "asset_size_bytes": 19802596,
-  "asset_count": 12,
-  "file_count": 6,
+  "asset_size_bytes": 20935818,
+  "asset_count": 13,
+  "file_count": 7,
   "pages": [
     {
       "url": "_v1/assets-00000.json",
-      "hash": "SHA256:64462b6bbac4388b001cc49d68fedb33636100a5ba783db48fd3ef29db86c05b"
+      "hash": "SHA256:7d3e807762adb467945edea06d33be7cbc9c1cfc2a7af4d2ac484ae29e7e41f2"
     }
   ],
   "catalogs": [
+    {
+      "path": "Cloth Dynamics",
+      "uuids": [
+        "1bdb5df9-3fef-413d-8d4c-e68338c53d96"
+      ],
+      "simple_name": "Cloth Dynamics"
+    },
     {
       "path": "Models",
       "uuids": [
