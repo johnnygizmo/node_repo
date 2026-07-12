@@ -1,6 +1,6 @@
 {
-  "asset_count": 13,
-  "file_count": 7,
+  "asset_count": 14,
+  "file_count": 8,
   "assets": [
     {
       "name": "Boolean - Difference Collection",
@@ -404,6 +404,30 @@
           }
         ]
       }
+    },
+    {
+      "name": "Mesh Volume",
+      "id_type": "NODETREE",
+      "files": [
+        "VolumeNode.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "VolumeNode_thumbnails/Nodetree/mesh-volume.webp",
+        "hash": "SHA256:edbdade7d24950ec80f0512da64ae68bb2d8d5f45069d8cf9c1c5fda1d185b3e"
+      },
+      "meta": {
+        "catalog_id": "71777356-8bbe-4c8e-870f-a4e4c19b823d",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
     }
   ],
   "files": [
@@ -447,6 +471,12 @@
       "path": "TextNodes/TextNodes.blend",
       "size_in_bytes": 382781,
       "hash": "SHA256:4cbd1f8f213192d40f198662204499932cbfd0acd3feccfc778cf714a9a73029",
+      "blender_version": "5.2.44"
+    },
+    {
+      "path": "VolumeNode.blend",
+      "size_in_bytes": 112449,
+      "hash": "SHA256:a0d13e2fc5f2a806b3c54a04819effd6d799074177c77025af902e761586b855",
       "blender_version": "5.2.44"
     }
   ]
