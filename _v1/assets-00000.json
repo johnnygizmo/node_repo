@@ -1,6 +1,6 @@
 {
-  "asset_count": 14,
-  "file_count": 8,
+  "asset_count": 15,
+  "file_count": 9,
   "assets": [
     {
       "name": "Boolean - Difference Collection",
@@ -314,6 +314,35 @@
       }
     },
     {
+      "name": "Boolean - SDF Collections",
+      "id_type": "NODETREE",
+      "files": [
+        "SDFBoolean.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "SDFBoolean_thumbnails/Nodetree/boolean-sdf-collections.webp",
+        "hash": "SHA256:8670aae7af507948ae095531b21e1cc30b6840d93cf8ad9d890548f42c3542cb"
+      },
+      "meta": {
+        "catalog_id": "d3d8d449-f1c1-434d-a2c8-8e07c211bdcb",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          },
+          {
+            "name": "geometry_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 2112
+          }
+        ]
+      }
+    },
+    {
       "name": "Solidify Mesh",
       "id_type": "NODETREE",
       "files": [
@@ -453,6 +482,12 @@
       "path": "Floorplanner/FloorPlanner3.blend",
       "size_in_bytes": 17867882,
       "hash": "SHA256:7a4ba69e87f4319aee9e06a43345854e7b4964aad4ae924523523ea7b961502a",
+      "blender_version": "5.2.44"
+    },
+    {
+      "path": "SDFBoolean.blend",
+      "size_in_bytes": 352342,
+      "hash": "SHA256:33fdf6d548d0130e531d8227b73210ce6039481251bc43caaa19d4c98b5e38ee",
       "blender_version": "5.2.44"
     },
     {
