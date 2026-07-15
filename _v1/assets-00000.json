@@ -1,6 +1,6 @@
 {
-  "asset_count": 15,
-  "file_count": 9,
+  "asset_count": 14,
+  "file_count": 8,
   "assets": [
     {
       "name": "Boolean - Difference Collection",
@@ -372,7 +372,7 @@
       }
     },
     {
-      "name": "Text Nodes 5.2",
+      "name": "GP Text Nodes 5.2",
       "id_type": "NODETREE",
       "files": [
         "TextNodes/TextNodes-5.2.blend"
@@ -381,11 +381,13 @@
         "min": "5.2"
       },
       "thumbnail": {
-        "url": "TextNodes/TextNodes-5.2_thumbnails/Nodetree/text-nodes-52.webp",
+        "url": "TextNodes/TextNodes-5.2_thumbnails/Nodetree/gp-text-nodes-52.webp",
         "hash": "SHA256:5094a0d274fc68cf520a179d5b70a1ca10608337a6980416239ab1d341018889"
       },
       "meta": {
         "catalog_id": "ce700cd1-7898-4101-9d91-9db0315dcc7c",
+        "preferred_import_method": "PACK",
+        "author": "Johnny Matthews",
         "properties": [
           {
             "name": "type",
@@ -396,40 +398,6 @@
             "name": "geometry_node_asset_traits_flag",
             "type": "IDP_INT",
             "value": 64
-          }
-        ]
-      }
-    },
-    {
-      "name": "Text Maker for 5.1",
-      "id_type": "NODETREE",
-      "files": [
-        "TextNodes/TextNodes.blend"
-      ],
-      "bl_versions": {
-        "min": "5.2"
-      },
-      "thumbnail": {
-        "url": "TextNodes/TextNodes_thumbnails/Nodetree/text-maker-for-51.webp",
-        "hash": "SHA256:ea0b8f7523132852fc2f965fad29fe2c5172c6a9f34a16e147c5b54e3affe180"
-      },
-      "meta": {
-        "catalog_id": "ce700cd1-7898-4101-9d91-9db0315dcc7c",
-        "properties": [
-          {
-            "name": "type",
-            "type": "IDP_INT",
-            "value": 3
-          },
-          {
-            "name": "geometry_node_asset_traits_flag",
-            "type": "IDP_INT",
-            "value": 2112
-          },
-          {
-            "name": "node_tool_idname",
-            "type": "IDP_STRING",
-            "value": "geometry.text_maker"
           }
         ]
       }
@@ -498,14 +466,8 @@
     },
     {
       "path": "TextNodes/TextNodes-5.2.blend",
-      "size_in_bytes": 361443,
-      "hash": "SHA256:94df4e6c9aaad9837040a094dfdaf70835fd285f6656f9ff9c65eb41019a4dec",
-      "blender_version": "5.2.44"
-    },
-    {
-      "path": "TextNodes/TextNodes.blend",
-      "size_in_bytes": 382781,
-      "hash": "SHA256:4cbd1f8f213192d40f198662204499932cbfd0acd3feccfc778cf714a9a73029",
+      "size_in_bytes": 214725,
+      "hash": "SHA256:7fbac40a16e9ff5a77764ddae9055da84fca9c0a65fd63a6c8ff8d498a5b34ae",
       "blender_version": "5.2.44"
     },
     {
