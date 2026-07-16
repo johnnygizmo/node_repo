@@ -90,7 +90,7 @@
       }
     },
     {
-      "name": "Boolean -Self & U/D Collections",
+      "name": "Mesh Boolean - Everything Node",
       "id_type": "NODETREE",
       "files": [
         "BooleanAll.blend"
@@ -99,7 +99,7 @@
         "min": "5.2"
       },
       "thumbnail": {
-        "url": "BooleanAll_thumbnails/Nodetree/boolean-self-ud-collections.webp",
+        "url": "BooleanAll_thumbnails/Nodetree/mesh-boolean-everything-node.webp",
         "hash": "SHA256:284edc2ec4a16bcac8cdb34c5eba3bb8ac30006a3056672679b8a10416fd6382"
       },
       "meta": {
@@ -430,8 +430,8 @@
   "files": [
     {
       "path": "BooleanAll.blend",
-      "size_in_bytes": 679696,
-      "hash": "SHA256:eb6806690872c7669d0cb45f42a416a448114ba56dc34e0218a707547ae5c575",
+      "size_in_bytes": 848873,
+      "hash": "SHA256:75648b705da1203d98704bdc82fec6d5cd9ba1fde647b3c592f27c3eef8c234f",
       "blender_version": "5.2.44"
     },
     {
@@ -466,8 +466,8 @@
     },
     {
       "path": "TextNodes/TextNodes-5.2.blend",
-      "size_in_bytes": 197622,
-      "hash": "SHA256:d840160524aefe801f6fda1bcfb21d894cf2b488de08ef2b6797bd4b4a70a468",
+      "size_in_bytes": 197598,
+      "hash": "SHA256:87c13a934b2973f9a0b1be3b4534f2addc5c6f2c11423ea2a262474cd953ddad",
       "blender_version": "5.2.44"
     },
     {
