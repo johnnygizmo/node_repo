@@ -1,6 +1,6 @@
 {
-  "asset_count": 14,
-  "file_count": 8,
+  "asset_count": 20,
+  "file_count": 9,
   "assets": [
     {
       "name": "Boolean - Difference Collection",
@@ -343,6 +343,120 @@
       }
     },
     {
+      "name": "Ambient Occlusion Mask",
+      "id_type": "NODETREE",
+      "files": [
+        "Shader Masks.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Bevel*Bevel Edge Mask",
+      "id_type": "NODETREE",
+      "files": [
+        "Shader Masks.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Curvature Map",
+      "id_type": "NODETREE",
+      "files": [
+        "Shader Masks.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Normal*Bevel Edge Mask",
+      "id_type": "NODETREE",
+      "files": [
+        "Shader Masks.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Pointiness Edge Masll",
+      "id_type": "NODETREE",
+      "files": [
+        "Shader Masks.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Voronoi Cracks",
+      "id_type": "NODETREE",
+      "files": [
+        "Shader Masks.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
       "name": "Solidify Mesh",
       "id_type": "NODETREE",
       "files": [
@@ -457,6 +571,13 @@
       "size_in_bytes": 352342,
       "hash": "SHA256:33fdf6d548d0130e531d8227b73210ce6039481251bc43caaa19d4c98b5e38ee",
       "blender_version": "5.2.44"
+    },
+    {
+      "path": "Shader Masks.blend",
+      "size_in_bytes": 1727418,
+      "hash": "SHA256:090a2ae84275e9fa5866dc52a36a9cb30c447e164665cfb084da1b21f40b1267",
+      "blender_version": "5.2.44",
+      "url": "Shader%20Masks.blend"
     },
     {
       "path": "SolidifyNode.blend",
