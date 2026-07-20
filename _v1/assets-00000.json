@@ -598,8 +598,8 @@
     },
     {
       "path": "Shader Masks.blend",
-      "size_in_bytes": 1981381,
-      "hash": "SHA256:e89bdb31a5b70386e5f4852fa6768997a3136ad92279b982edf8400ab54681f3",
+      "size_in_bytes": 1987437,
+      "hash": "SHA256:1c26823bfc5ea44c8d942c1929e693c667ccef0cbf405b87f2ff8758884bde17",
       "blender_version": "5.2.44",
       "url": "Shader%20Masks.blend"
     },
