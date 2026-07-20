@@ -119,176 +119,16 @@
       }
     },
     {
-      "name": "Cloth Pressure Effector",
-      "id_type": "NODETREE",
-      "files": [
-        "Cloth/Pressure.blend"
-      ],
-      "bl_versions": {
-        "min": "5.2"
-      },
-      "thumbnail": {
-        "url": "Cloth/Pressure_thumbnails/Nodetree/cloth-pressure-effector.webp",
-        "hash": "SHA256:8474f84ccc5ecd7a3f856fdbf7cea7126a2133c662c1b627ebefb6cbe95e85d5"
-      },
-      "meta": {
-        "catalog_id": "9f0c4a7e-bdbc-4fda-b394-59576020e104",
-        "properties": [
-          {
-            "name": "type",
-            "type": "IDP_INT",
-            "value": 3
-          }
-        ]
-      }
-    },
-    {
-      "name": "Figure 8 Knot",
-      "id_type": "NODETREE",
-      "files": [
-        "Curves/TorusKnot.blend"
-      ],
-      "bl_versions": {
-        "min": "5.2"
-      },
-      "thumbnail": {
-        "url": "Curves/TorusKnot_thumbnails/Nodetree/figure-8-knot.webp",
-        "hash": "SHA256:888f9c6fc3d3f2986a2b070429db84eb56778a354717ab9180ef2e206facab1a"
-      },
-      "meta": {
-        "catalog_id": "45a454f8-a95f-4f71-8814-d6e26a7be557",
-        "properties": [
-          {
-            "name": "type",
-            "type": "IDP_INT",
-            "value": 3
-          },
-          {
-            "name": "geometry_node_asset_traits_flag",
-            "type": "IDP_INT",
-            "value": 64
-          },
-          {
-            "name": "node_tool_idname",
-            "type": "IDP_STRING",
-            "value": "geometry.figure_8_knot"
-          }
-        ]
-      }
-    },
-    {
-      "name": "Lissajous knot",
-      "id_type": "NODETREE",
-      "files": [
-        "Curves/TorusKnot.blend"
-      ],
-      "bl_versions": {
-        "min": "5.2"
-      },
-      "thumbnail": {
-        "url": "Curves/TorusKnot_thumbnails/Nodetree/lissajous-knot.webp",
-        "hash": "SHA256:faba1ba65b5776ec28a6303b1ab6fb70ad563f3a799a004adf80db729de51655"
-      },
-      "meta": {
-        "catalog_id": "45a454f8-a95f-4f71-8814-d6e26a7be557",
-        "properties": [
-          {
-            "name": "type",
-            "type": "IDP_INT",
-            "value": 3
-          },
-          {
-            "name": "geometry_node_asset_traits_flag",
-            "type": "IDP_INT",
-            "value": 64
-          },
-          {
-            "name": "node_tool_idname",
-            "type": "IDP_STRING",
-            "value": "geometry.lissajous_knot"
-          }
-        ]
-      }
-    },
-    {
-      "name": "Torus Knot",
-      "id_type": "NODETREE",
-      "files": [
-        "Curves/TorusKnot.blend"
-      ],
-      "bl_versions": {
-        "min": "5.2"
-      },
-      "thumbnail": {
-        "url": "Curves/TorusKnot_thumbnails/Nodetree/torus-knot.webp",
-        "hash": "SHA256:890422b741dc2540291ca423f4eec75f10ed343afe74a917e3a085ae3f882be8"
-      },
-      "meta": {
-        "catalog_id": "45a454f8-a95f-4f71-8814-d6e26a7be557",
-        "properties": [
-          {
-            "name": "type",
-            "type": "IDP_INT",
-            "value": 3
-          },
-          {
-            "name": "geometry_node_asset_traits_flag",
-            "type": "IDP_INT",
-            "value": 64
-          },
-          {
-            "name": "node_tool_idname",
-            "type": "IDP_STRING",
-            "value": "geometry.torus_knot"
-          }
-        ]
-      }
-    },
-    {
-      "name": "Trefoil Knot",
-      "id_type": "NODETREE",
-      "files": [
-        "Curves/TorusKnot.blend"
-      ],
-      "bl_versions": {
-        "min": "5.2"
-      },
-      "thumbnail": {
-        "url": "Curves/TorusKnot_thumbnails/Nodetree/trefoil-knot.webp",
-        "hash": "SHA256:ecabbfd0e284aa4f815cc5889fd308f020a6a940702351a16365ea48d56bd1f7"
-      },
-      "meta": {
-        "catalog_id": "45a454f8-a95f-4f71-8814-d6e26a7be557",
-        "properties": [
-          {
-            "name": "type",
-            "type": "IDP_INT",
-            "value": 3
-          },
-          {
-            "name": "geometry_node_asset_traits_flag",
-            "type": "IDP_INT",
-            "value": 64
-          },
-          {
-            "name": "node_tool_idname",
-            "type": "IDP_STRING",
-            "value": "geometry.trefoil_knot"
-          }
-        ]
-      }
-    },
-    {
       "name": "Floorplanner",
       "id_type": "NODETREE",
       "files": [
-        "Floorplanner/FloorPlanner3.blend"
+        "FloorPlanner3.blend"
       ],
       "bl_versions": {
         "min": "5.2"
       },
       "thumbnail": {
-        "url": "Floorplanner/FloorPlanner3_thumbnails/Nodetree/floorplanner.webp",
+        "url": "FloorPlanner3_thumbnails/Nodetree/floorplanner.webp",
         "hash": "SHA256:ea1f9b768155829cdf44cf72c5e8a01a38abe3fdd636ce8d6f5724e7daadfdfc"
       },
       "meta": {
@@ -309,6 +149,30 @@
             "name": "node_tool_idname",
             "type": "IDP_STRING",
             "value": "geometry.floorplanner"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Cloth Pressure Effector",
+      "id_type": "NODETREE",
+      "files": [
+        "Pressure.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "Pressure_thumbnails/Nodetree/cloth-pressure-effector.webp",
+        "hash": "SHA256:8474f84ccc5ecd7a3f856fdbf7cea7126a2133c662c1b627ebefb6cbe95e85d5"
+      },
+      "meta": {
+        "catalog_id": "fa085e10-cc2b-4e9d-9cbd-7e805dbd21a2",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
           }
         ]
       }
@@ -519,17 +383,17 @@
       "name": "GP Text Nodes 5.2",
       "id_type": "NODETREE",
       "files": [
-        "TextNodes/TextNodes-5.2.blend"
+        "TextNodes-5.2.blend"
       ],
       "bl_versions": {
         "min": "5.2"
       },
       "thumbnail": {
-        "url": "TextNodes/TextNodes-5.2_thumbnails/Nodetree/gp-text-nodes-52.webp",
+        "url": "TextNodes-5.2_thumbnails/Nodetree/gp-text-nodes-52.webp",
         "hash": "SHA256:5094a0d274fc68cf520a179d5b70a1ca10608337a6980416239ab1d341018889"
       },
       "meta": {
-        "catalog_id": "ce700cd1-7898-4101-9d91-9db0315dcc7c",
+        "catalog_id": "9c3533be-e653-43be-8f44-c0cd742b77fd",
         "preferred_import_method": "PACK",
         "author": "Johnny Matthews",
         "properties": [
@@ -542,6 +406,142 @@
             "name": "geometry_node_asset_traits_flag",
             "type": "IDP_INT",
             "value": 64
+          }
+        ]
+      }
+    },
+    {
+      "name": "Figure 8 Knot",
+      "id_type": "NODETREE",
+      "files": [
+        "TorusKnot.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "TorusKnot_thumbnails/Nodetree/figure-8-knot.webp",
+        "hash": "SHA256:888f9c6fc3d3f2986a2b070429db84eb56778a354717ab9180ef2e206facab1a"
+      },
+      "meta": {
+        "catalog_id": "45a454f8-a95f-4f71-8814-d6e26a7be557",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          },
+          {
+            "name": "geometry_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 64
+          },
+          {
+            "name": "node_tool_idname",
+            "type": "IDP_STRING",
+            "value": "geometry.figure_8_knot"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Lissajous knot",
+      "id_type": "NODETREE",
+      "files": [
+        "TorusKnot.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "TorusKnot_thumbnails/Nodetree/lissajous-knot.webp",
+        "hash": "SHA256:faba1ba65b5776ec28a6303b1ab6fb70ad563f3a799a004adf80db729de51655"
+      },
+      "meta": {
+        "catalog_id": "45a454f8-a95f-4f71-8814-d6e26a7be557",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          },
+          {
+            "name": "geometry_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 64
+          },
+          {
+            "name": "node_tool_idname",
+            "type": "IDP_STRING",
+            "value": "geometry.lissajous_knot"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Torus Knot",
+      "id_type": "NODETREE",
+      "files": [
+        "TorusKnot.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "TorusKnot_thumbnails/Nodetree/torus-knot.webp",
+        "hash": "SHA256:890422b741dc2540291ca423f4eec75f10ed343afe74a917e3a085ae3f882be8"
+      },
+      "meta": {
+        "catalog_id": "45a454f8-a95f-4f71-8814-d6e26a7be557",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          },
+          {
+            "name": "geometry_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 64
+          },
+          {
+            "name": "node_tool_idname",
+            "type": "IDP_STRING",
+            "value": "geometry.torus_knot"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Trefoil Knot",
+      "id_type": "NODETREE",
+      "files": [
+        "TorusKnot.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "TorusKnot_thumbnails/Nodetree/trefoil-knot.webp",
+        "hash": "SHA256:ecabbfd0e284aa4f815cc5889fd308f020a6a940702351a16365ea48d56bd1f7"
+      },
+      "meta": {
+        "catalog_id": "45a454f8-a95f-4f71-8814-d6e26a7be557",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          },
+          {
+            "name": "geometry_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 64
+          },
+          {
+            "name": "node_tool_idname",
+            "type": "IDP_STRING",
+            "value": "geometry.trefoil_knot"
           }
         ]
       }
@@ -579,21 +579,15 @@
       "blender_version": "5.2.44"
     },
     {
-      "path": "Cloth/Pressure.blend",
-      "size_in_bytes": 592516,
-      "hash": "SHA256:ef34e298c0828d4f180c597bf037ef393feaf03f56fd644dbb069abda8064707",
-      "blender_version": "5.2.44"
-    },
-    {
-      "path": "Curves/TorusKnot.blend",
-      "size_in_bytes": 393996,
-      "hash": "SHA256:78a54e03b1e486c16c5a8e3e4983b71a1e86b2af6fa2e5a1626bd1007d487336",
-      "blender_version": "5.2.44"
-    },
-    {
-      "path": "Floorplanner/FloorPlanner3.blend",
+      "path": "FloorPlanner3.blend",
       "size_in_bytes": 17867882,
       "hash": "SHA256:7a4ba69e87f4319aee9e06a43345854e7b4964aad4ae924523523ea7b961502a",
+      "blender_version": "5.2.44"
+    },
+    {
+      "path": "Pressure.blend",
+      "size_in_bytes": 530975,
+      "hash": "SHA256:72f6dc8dfb5fc236fccce6e582794f1e0a1875554d46c37e4acccf4616ca2a53",
       "blender_version": "5.2.44"
     },
     {
@@ -616,9 +610,15 @@
       "blender_version": "5.2.44"
     },
     {
-      "path": "TextNodes/TextNodes-5.2.blend",
-      "size_in_bytes": 208305,
-      "hash": "SHA256:85c3688f388747321cbbf1834be31a038a7dce5ac284bed400e1e08548b087a2",
+      "path": "TextNodes-5.2.blend",
+      "size_in_bytes": 212512,
+      "hash": "SHA256:1dab97f031447442f36d8ee3a83142685f4d52d51b8b983cfd8d876722756b0d",
+      "blender_version": "5.2.44"
+    },
+    {
+      "path": "TorusKnot.blend",
+      "size_in_bytes": 393996,
+      "hash": "SHA256:78a54e03b1e486c16c5a8e3e4983b71a1e86b2af6fa2e5a1626bd1007d487336",
       "blender_version": "5.2.44"
     },
     {

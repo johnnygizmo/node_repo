@@ -1,15 +1,22 @@
 {
   "schema_version": "1.0.0",
-  "asset_size_bytes": 22478311,
+  "asset_size_bytes": 22420977,
   "asset_count": 20,
   "file_count": 9,
   "pages": [
     {
       "url": "_v1/assets-00000.json",
-      "hash": "SHA256:d8b74aa16e78ae9c4cb4aa6cfd6eea7d2632d5cd71cffe1ceab1d7ee557719ec"
+      "hash": "SHA256:830bf98fe7d8493f49d6dfd22496cdae2e920aac612053c455a02b39d09c1d7f"
     }
   ],
   "catalogs": [
+    {
+      "path": "Geometry Nodes",
+      "uuids": [
+        "ec107730-75ba-496b-8b58-e7ec692fabea"
+      ],
+      "simple_name": "Geometry Nodes"
+    },
     {
       "path": "Geometry Nodes/Boolean",
       "uuids": [
@@ -18,55 +25,46 @@
       "simple_name": "Geometry Nodes-Boolean"
     },
     {
-      "path": "Nodes",
+      "path": "Geometry Nodes/Cloth",
       "uuids": [
-        "ec107730-75ba-496b-8b58-e7ec692fabea",
-        "eb7d787e-c6e6-489e-974f-863a1b9fa69d",
-        "eb878804-2156-40c0-956f-6933442376e7"
+        "fa085e10-cc2b-4e9d-9cbd-7e805dbd21a2"
       ],
-      "simple_name": "Nodes"
+      "simple_name": "Geometry Nodes-Cloth"
     },
     {
-      "path": "Nodes/Cloth",
-      "uuids": [
-        "9f0c4a7e-bdbc-4fda-b394-59576020e104"
-      ],
-      "simple_name": "Nodes-Cloth"
-    },
-    {
-      "path": "Nodes/Curves",
+      "path": "Geometry Nodes/Curves",
       "uuids": [
         "45a454f8-a95f-4f71-8814-d6e26a7be557"
       ],
-      "simple_name": "Nodes-Curves"
+      "simple_name": "Geometry Nodes-Curves"
     },
     {
-      "path": "Nodes/Generator",
+      "path": "Geometry Nodes/Generator",
       "uuids": [
         "28df526e-d36e-4632-adb0-80e25e2528df"
       ],
-      "simple_name": "Nodes-Generator"
+      "simple_name": "Geometry Nodes-Generator"
     },
     {
-      "path": "Nodes/Mesh",
+      "path": "Geometry Nodes/Mesh",
       "uuids": [
         "b7f1dd7b-ae5a-4678-91f1-9ce8e957e49f"
       ],
-      "simple_name": "Nodes-Mesh"
+      "simple_name": "Geometry Nodes-Mesh"
     },
     {
-      "path": "Nodes/Text",
+      "path": "Geometry Nodes/Text",
       "uuids": [
-        "ce700cd1-7898-4101-9d91-9db0315dcc7c"
+        "9c3533be-e653-43be-8f44-c0cd742b77fd"
       ],
-      "simple_name": "Nodes-Text"
+      "simple_name": "Geometry Nodes-Text"
     },
     {
-      "path": "Nodes/Utility",
+      "path": "Geometry Nodes/Utility",
       "uuids": [
         "71777356-8bbe-4c8e-870f-a4e4c19b823d"
       ],
-      "simple_name": "Nodes-Utility"
+      "simple_name": "Geometry Nodes-Utility"
     },
     {
       "path": "Shader Nodes",
