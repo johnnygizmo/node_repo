@@ -1,0 +1,14 @@
+# This is an Asset Catalog Definition file for Blender.
+#
+# Empty lines and lines starting with `#` will be ignored.
+# The first non-ignored line should be the version indicator.
+# Other lines are of the format "UUID:catalog/path/for/assets:simple catalog name"
+
+VERSION 1
+
+ec107730-75ba-496b-8b58-e7ec692fabea:Nodes:Nodes
+d3d8d449-f1c1-434d-a2c8-8e07c211bdcb:Nodes/Boolean:Nodes-Boolean
+45a454f8-a95f-4f71-8814-d6e26a7be557:Nodes/Curves:Nodes-Curves
+28df526e-d36e-4632-adb0-80e25e2528df:Nodes/Generator:Nodes-Generator
+b7f1dd7b-ae5a-4678-91f1-9ce8e957e49f:Nodes/Mesh:Nodes-Mesh
+71777356-8bbe-4c8e-870f-a4e4c19b823d:Nodes/Utility:Nodes-Utility

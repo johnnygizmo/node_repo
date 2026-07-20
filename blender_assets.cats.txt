@@ -6,9 +6,11 @@
 
 VERSION 1
 
-ec107730-75ba-496b-8b58-e7ec692fabea:Nodes:Nodes
-d3d8d449-f1c1-434d-a2c8-8e07c211bdcb:Nodes/Boolean:Nodes-Boolean
-45a454f8-a95f-4f71-8814-d6e26a7be557:Nodes/Curves:Nodes-Curves
-28df526e-d36e-4632-adb0-80e25e2528df:Nodes/Generator:Nodes-Generator
-b7f1dd7b-ae5a-4678-91f1-9ce8e957e49f:Nodes/Mesh:Nodes-Mesh
-71777356-8bbe-4c8e-870f-a4e4c19b823d:Nodes/Utility:Nodes-Utility
+ec107730-75ba-496b-8b58-e7ec692fabea:Geometry Nodes:Geometry Nodes
+d3d8d449-f1c1-434d-a2c8-8e07c211bdcb:Geometry Nodes/Boolean:Geometry Nodes-Boolean
+45a454f8-a95f-4f71-8814-d6e26a7be557:Geometry Nodes/Curves:Geometry Nodes-Curves
+28df526e-d36e-4632-adb0-80e25e2528df:Geometry Nodes/Generator:Geometry Nodes-Generator
+b7f1dd7b-ae5a-4678-91f1-9ce8e957e49f:Geometry Nodes/Mesh:Geometry Nodes-Mesh
+71777356-8bbe-4c8e-870f-a4e4c19b823d:Geometry Nodes/Utility:Geometry Nodes-Utility
+db9631a1-5b38-4f36-8079-3cc8618e54d2:Shader Nodes:Shader Nodes
+816867c2-6596-41a5-89aa-9314b43bb58d:Shader Nodes/Masks:Shader Nodes-Masks

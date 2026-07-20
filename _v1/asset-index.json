@@ -1,15 +1,22 @@
 {
   "schema_version": "1.0.0",
-  "asset_size_bytes": 22224348,
+  "asset_size_bytes": 22478311,
   "asset_count": 20,
   "file_count": 9,
   "pages": [
     {
       "url": "_v1/assets-00000.json",
-      "hash": "SHA256:0ddf9a44885c6a22f9c000bde22c0e1ad2e4207b6d476d6879ee300881ce03e5"
+      "hash": "SHA256:d8b74aa16e78ae9c4cb4aa6cfd6eea7d2632d5cd71cffe1ceab1d7ee557719ec"
     }
   ],
   "catalogs": [
+    {
+      "path": "Geometry Nodes/Boolean",
+      "uuids": [
+        "d3d8d449-f1c1-434d-a2c8-8e07c211bdcb"
+      ],
+      "simple_name": "Geometry Nodes-Boolean"
+    },
     {
       "path": "Nodes",
       "uuids": [
@@ -18,13 +25,6 @@
         "eb878804-2156-40c0-956f-6933442376e7"
       ],
       "simple_name": "Nodes"
-    },
-    {
-      "path": "Nodes/Boolean",
-      "uuids": [
-        "d3d8d449-f1c1-434d-a2c8-8e07c211bdcb"
-      ],
-      "simple_name": "Nodes-Boolean"
     },
     {
       "path": "Nodes/Cloth",
@@ -67,6 +67,20 @@
         "71777356-8bbe-4c8e-870f-a4e4c19b823d"
       ],
       "simple_name": "Nodes-Utility"
+    },
+    {
+      "path": "Shader Nodes",
+      "uuids": [
+        "db9631a1-5b38-4f36-8079-3cc8618e54d2"
+      ],
+      "simple_name": "Shader Nodes"
+    },
+    {
+      "path": "Shader Nodes/Masks",
+      "uuids": [
+        "816867c2-6596-41a5-89aa-9314b43bb58d"
+      ],
+      "simple_name": "Shader Nodes-Masks"
     }
   ]
 }

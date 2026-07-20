@@ -351,7 +351,12 @@
       "bl_versions": {
         "min": "5.2"
       },
+      "thumbnail": {
+        "url": "Shader%20Masks_thumbnails/Nodetree/ambient-occlusion-mask.webp",
+        "hash": "SHA256:cd5dddf9161775fef85d17dc19a7cdbaefe10c830a8ca64c6ace47acc67908b2"
+      },
       "meta": {
+        "catalog_id": "816867c2-6596-41a5-89aa-9314b43bb58d",
         "properties": [
           {
             "name": "type",
@@ -370,7 +375,12 @@
       "bl_versions": {
         "min": "5.2"
       },
+      "thumbnail": {
+        "url": "Shader%20Masks_thumbnails/Nodetree/bevelbevel-edge-mask.webp",
+        "hash": "SHA256:171390cb389f8e920f84faca92f21ceca400b51ab4c53c4ed08bf2be374d68c2"
+      },
       "meta": {
+        "catalog_id": "816867c2-6596-41a5-89aa-9314b43bb58d",
         "properties": [
           {
             "name": "type",
@@ -389,7 +399,12 @@
       "bl_versions": {
         "min": "5.2"
       },
+      "thumbnail": {
+        "url": "Shader%20Masks_thumbnails/Nodetree/curvature-map.webp",
+        "hash": "SHA256:b8b8d99b7d272f8697e289017932c8eacdfc75114d60a843a61767566dd5a6bb"
+      },
       "meta": {
+        "catalog_id": "816867c2-6596-41a5-89aa-9314b43bb58d",
         "properties": [
           {
             "name": "type",
@@ -408,7 +423,12 @@
       "bl_versions": {
         "min": "5.2"
       },
+      "thumbnail": {
+        "url": "Shader%20Masks_thumbnails/Nodetree/normalbevel-edge-mask.webp",
+        "hash": "SHA256:7463148e3f28267e80c89f0b966327aeb58e6795459774579c713c1fdec2895a"
+      },
       "meta": {
+        "catalog_id": "816867c2-6596-41a5-89aa-9314b43bb58d",
         "properties": [
           {
             "name": "type",
@@ -427,7 +447,12 @@
       "bl_versions": {
         "min": "5.2"
       },
+      "thumbnail": {
+        "url": "Shader%20Masks_thumbnails/Nodetree/pointiness-edge-masll.webp",
+        "hash": "SHA256:8f6d2f96f7f97fe9326bd00a8d38780a2bf4b98be171d49c41050955db44e39f"
+      },
       "meta": {
+        "catalog_id": "816867c2-6596-41a5-89aa-9314b43bb58d",
         "properties": [
           {
             "name": "type",
@@ -446,7 +471,12 @@
       "bl_versions": {
         "min": "5.2"
       },
+      "thumbnail": {
+        "url": "Shader%20Masks_thumbnails/Nodetree/voronoi-cracks.webp",
+        "hash": "SHA256:4b3d1b3c88be2685425e3b87d8fa32ddd2362b277c52de1690a5f1722e20b247"
+      },
       "meta": {
+        "catalog_id": "816867c2-6596-41a5-89aa-9314b43bb58d",
         "properties": [
           {
             "name": "type",
@@ -574,8 +604,8 @@
     },
     {
       "path": "Shader Masks.blend",
-      "size_in_bytes": 1727418,
-      "hash": "SHA256:090a2ae84275e9fa5866dc52a36a9cb30c447e164665cfb084da1b21f40b1267",
+      "size_in_bytes": 1981381,
+      "hash": "SHA256:e89bdb31a5b70386e5f4852fa6768997a3136ad92279b982edf8400ab54681f3",
       "blender_version": "5.2.44",
       "url": "Shader%20Masks.blend"
     },
