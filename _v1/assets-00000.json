@@ -154,7 +154,7 @@
       }
     },
     {
-      "name": "Mesh Outline",
+      "name": "GP Outline",
       "id_type": "NODETREE",
       "files": [
         "MeshOutline.blend"
@@ -163,7 +163,7 @@
         "min": "5.2"
       },
       "thumbnail": {
-        "url": "MeshOutline_thumbnails/Nodetree/mesh-outline.webp",
+        "url": "MeshOutline_thumbnails/Nodetree/gp-outline.webp",
         "hash": "SHA256:b777f1a58aac731cef70c9cdffa82297c7922f3b0308fdb5556a7c4a771a6345"
       },
       "meta": {
@@ -609,8 +609,8 @@
     },
     {
       "path": "MeshOutline.blend",
-      "size_in_bytes": 288752,
-      "hash": "SHA256:736c434f8088359c66241ed8f5f14122e5e4b2ee097761170b9b96786dec5618",
+      "size_in_bytes": 295978,
+      "hash": "SHA256:0d6c0eca5ae4b70e6d84028678ba351d0a9fc232812549d6ee8131d57e885d7c",
       "blender_version": "5.2.44"
     },
     {
