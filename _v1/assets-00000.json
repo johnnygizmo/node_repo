@@ -1,6 +1,6 @@
 {
-  "asset_count": 20,
-  "file_count": 9,
+  "asset_count": 21,
+  "file_count": 10,
   "assets": [
     {
       "name": "Boolean - Difference Collection",
@@ -149,6 +149,29 @@
             "name": "node_tool_idname",
             "type": "IDP_STRING",
             "value": "geometry.floorplanner"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Mesh Outline",
+      "id_type": "NODETREE",
+      "files": [
+        "MeshOutline.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MeshOutline_thumbnails/Nodetree/mesh-outline.webp",
+        "hash": "SHA256:b777f1a58aac731cef70c9cdffa82297c7922f3b0308fdb5556a7c4a771a6345"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
           }
         ]
       }
@@ -582,6 +605,12 @@
       "path": "FloorPlanner3.blend",
       "size_in_bytes": 17867882,
       "hash": "SHA256:7a4ba69e87f4319aee9e06a43345854e7b4964aad4ae924523523ea7b961502a",
+      "blender_version": "5.2.44"
+    },
+    {
+      "path": "MeshOutline.blend",
+      "size_in_bytes": 318381,
+      "hash": "SHA256:0780ab012072d484ed4824d58aa7655fc2a427a71a6173362478a96521838892",
       "blender_version": "5.2.44"
     },
     {
