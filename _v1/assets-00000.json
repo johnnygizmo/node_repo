@@ -167,6 +167,7 @@
         "hash": "SHA256:b777f1a58aac731cef70c9cdffa82297c7922f3b0308fdb5556a7c4a771a6345"
       },
       "meta": {
+        "catalog_id": "ec107730-75ba-496b-8b58-e7ec692fabea",
         "properties": [
           {
             "name": "type",
@@ -609,8 +610,8 @@
     },
     {
       "path": "MeshOutline.blend",
-      "size_in_bytes": 295978,
-      "hash": "SHA256:0d6c0eca5ae4b70e6d84028678ba351d0a9fc232812549d6ee8131d57e885d7c",
+      "size_in_bytes": 293611,
+      "hash": "SHA256:c1852668fca11296dd691be191dd89d64fbcf44b22a95a3944f6e28a6d31533b",
       "blender_version": "5.2.44"
     },
     {
