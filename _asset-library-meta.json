@@ -2,7 +2,7 @@
   "api_versions": {
     "v1": {
       "url": "_v1/asset-index.json",
-      "hash": "SHA256:52d7f308b7b90c76b894cc899244be5e9ad0355f13b0dc067a89d5add4cb85db"
+      "hash": "SHA256:ac7b93dcef28e38fc9349bfbeac00891f19253c38528b67a887b8718317595e4"
     }
   },
   "name": "Johnnygizmo's Node Library",

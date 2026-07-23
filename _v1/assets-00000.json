@@ -173,6 +173,11 @@
             "name": "type",
             "type": "IDP_INT",
             "value": 3
+          },
+          {
+            "name": "geometry_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 64
           }
         ]
       }
@@ -610,8 +615,8 @@
     },
     {
       "path": "MeshOutline.blend",
-      "size_in_bytes": 294135,
-      "hash": "SHA256:098965bc7d50c92a8dbf7758b7466907060ef5602d6ad65b7482c17a5f6884ed",
+      "size_in_bytes": 313830,
+      "hash": "SHA256:ebc6d7092be75c98657f072d90fafad617273e47bb6e616fe15074fbf5defa97",
       "blender_version": "5.2.44"
     },
     {
