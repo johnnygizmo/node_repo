@@ -1,12 +1,12 @@
 {
   "schema_version": "1.0.0",
-  "asset_size_bytes": 22894320,
-  "asset_count": 22,
-  "file_count": 11,
+  "asset_size_bytes": 23026541,
+  "asset_count": 23,
+  "file_count": 12,
   "pages": [
     {
       "url": "_v1/assets-00000.json",
-      "hash": "SHA256:d4a8ed5d74b51ae566f1dd9c4357ae0f0e66af0ebdc243389b9bcf1f02610aa8"
+      "hash": "SHA256:db2f8f494ab16e89094d50a80d5d4e83b9e0cd6c652c62ae3ecf28d3f1270897"
     }
   ],
   "catalogs": [
@@ -86,6 +86,13 @@
         "816867c2-6596-41a5-89aa-9314b43bb58d"
       ],
       "simple_name": "Shader Nodes-Masks"
+    },
+    {
+      "path": "Shader Nodes/Shaders",
+      "uuids": [
+        "aa1ea996-4a29-4eb1-8953-b75d3ea79d13"
+      ],
+      "simple_name": "Shader Nodes-Shaders"
     }
   ]
 }

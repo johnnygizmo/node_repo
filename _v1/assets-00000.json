@@ -1,6 +1,6 @@
 {
-  "asset_count": 22,
-  "file_count": 11,
+  "asset_count": 23,
+  "file_count": 12,
   "assets": [
     {
       "name": "Boolean - Difference Collection",
@@ -178,6 +178,30 @@
             "name": "geometry_node_asset_traits_flag",
             "type": "IDP_INT",
             "value": 64
+          }
+        ]
+      }
+    },
+    {
+      "name": "Multi-Mix Shader",
+      "id_type": "NODETREE",
+      "files": [
+        "MultiMix.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "MultiMix_thumbnails/Nodetree/multi-mix-shader.webp",
+        "hash": "SHA256:a3e198f83faa1d09bcc598a6406207a3f9c190c52c898a685f1453c20d093891"
+      },
+      "meta": {
+        "catalog_id": "aa1ea996-4a29-4eb1-8953-b75d3ea79d13",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 0
           }
         ]
       }
@@ -641,6 +665,12 @@
       "path": "MeshOutline.blend",
       "size_in_bytes": 327925,
       "hash": "SHA256:ba1a78760649947be7ea533e6bd994a5ad804d3178c439002e49a1d259d3e3ea",
+      "blender_version": "5.2.44"
+    },
+    {
+      "path": "MultiMix.blend",
+      "size_in_bytes": 132221,
+      "hash": "SHA256:150f59caff03d03f7714d799c2b21806f0798d2db71604c25cc89afd52b98520",
       "blender_version": "5.2.44"
     },
     {
