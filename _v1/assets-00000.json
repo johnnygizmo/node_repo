@@ -1,6 +1,6 @@
 {
-  "asset_count": 21,
-  "file_count": 10,
+  "asset_count": 22,
+  "file_count": 11,
   "assets": [
     {
       "name": "Boolean - Difference Collection",
@@ -576,6 +576,30 @@
       }
     },
     {
+      "name": "UV Mapping",
+      "id_type": "NODETREE",
+      "files": [
+        "UVMapping.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "UVMapping_thumbnails/Nodetree/uv-mapping.webp",
+        "hash": "SHA256:70ce78ae3e19dbfadc63b4d2507adde5b0b787cc99ac629cf55e9abacd408e10"
+      },
+      "meta": {
+        "catalog_id": "db9631a1-5b38-4f36-8079-3cc8618e54d2",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
       "name": "Mesh Volume",
       "id_type": "NODETREE",
       "files": [
@@ -654,6 +678,12 @@
       "path": "TorusKnot.blend",
       "size_in_bytes": 393996,
       "hash": "SHA256:78a54e03b1e486c16c5a8e3e4983b71a1e86b2af6fa2e5a1626bd1007d487336",
+      "blender_version": "5.2.44"
+    },
+    {
+      "path": "UVMapping.blend",
+      "size_in_bytes": 139362,
+      "hash": "SHA256:2b41156ded3e27612c2660f53613e7259d0fce9fe3299e41423bdaea1308bd70",
       "blender_version": "5.2.44"
     },
     {
