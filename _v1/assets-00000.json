@@ -167,6 +167,7 @@
         "hash": "SHA256:64d55d6f75051713d4996676dd293821bc7cc26de7b89f67d5af9e07169c7238"
       },
       "meta": {
+        "catalog_id": "ec107730-75ba-496b-8b58-e7ec692fabea",
         "author": "Johnny Matthews",
         "description": "Make Picture Frames",
         "license": "CC0",
@@ -747,8 +748,8 @@
     },
     {
       "path": "FrameMaker2.blend",
-      "size_in_bytes": 10074966,
-      "hash": "SHA256:119454797b46e46713474f21f2ffafd67ef7a06fd867499e763ffb8282b45882",
+      "size_in_bytes": 9729087,
+      "hash": "SHA256:7221cc87954e69756ded74c58298bd5eb3f3618374ebd56db9710d7a7cf6deba",
       "blender_version": "5.2.44"
     },
     {
