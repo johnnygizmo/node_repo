@@ -1,6 +1,6 @@
 {
-  "asset_count": 23,
-  "file_count": 12,
+  "asset_count": 26,
+  "file_count": 14,
   "assets": [
     {
       "name": "Boolean - Difference Collection",
@@ -154,6 +154,66 @@
       }
     },
     {
+      "name": "Frame Maker 2",
+      "id_type": "NODETREE",
+      "files": [
+        "FrameMaker2.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "FrameMaker2_thumbnails/Nodetree/frame-maker-2.webp",
+        "hash": "SHA256:64d55d6f75051713d4996676dd293821bc7cc26de7b89f67d5af9e07169c7238"
+      },
+      "meta": {
+        "author": "Johnny Matthews",
+        "description": "Make Picture Frames",
+        "license": "CC0",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          },
+          {
+            "name": "geometry_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 2112
+          },
+          {
+            "name": "node_tool_idname",
+            "type": "IDP_STRING",
+            "value": "geometry.frame_maker_2"
+          }
+        ]
+      }
+    },
+    {
+      "name": "UV Mapping",
+      "id_type": "NODETREE",
+      "files": [
+        "FrameMaker2.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "thumbnail": {
+        "url": "FrameMaker2_thumbnails/Nodetree/uv-mapping.webp",
+        "hash": "SHA256:70ce78ae3e19dbfadc63b4d2507adde5b0b787cc99ac629cf55e9abacd408e10"
+      },
+      "meta": {
+        "catalog_id": "db9631a1-5b38-4f36-8079-3cc8618e54d2",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 0
+          }
+        ]
+      }
+    },
+    {
       "name": "GP Outline",
       "id_type": "NODETREE",
       "files": [
@@ -202,6 +262,30 @@
             "name": "type",
             "type": "IDP_INT",
             "value": 0
+          }
+        ]
+      }
+    },
+    {
+      "name": "Outline Flat",
+      "id_type": "NODETREE",
+      "files": [
+        "OutlineFlat.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          },
+          {
+            "name": "geometry_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 64
           }
         ]
       }
@@ -662,15 +746,27 @@
       "blender_version": "5.2.44"
     },
     {
+      "path": "FrameMaker2.blend",
+      "size_in_bytes": 10074966,
+      "hash": "SHA256:119454797b46e46713474f21f2ffafd67ef7a06fd867499e763ffb8282b45882",
+      "blender_version": "5.2.44"
+    },
+    {
       "path": "MeshOutline.blend",
-      "size_in_bytes": 327925,
-      "hash": "SHA256:ba1a78760649947be7ea533e6bd994a5ad804d3178c439002e49a1d259d3e3ea",
+      "size_in_bytes": 317990,
+      "hash": "SHA256:6862e654131518e1f5412da93ca0e46215d5541da66ab9def57ebd34861677aa",
       "blender_version": "5.2.44"
     },
     {
       "path": "MultiMix.blend",
       "size_in_bytes": 131506,
       "hash": "SHA256:0a3b6e5f6f207dbcb28f7f63a66d085e6a5bcede00a95e3e388689d6a1f0f10b",
+      "blender_version": "5.2.44"
+    },
+    {
+      "path": "OutlineFlat.blend",
+      "size_in_bytes": 428625,
+      "hash": "SHA256:65228f13fd061d03f299b444f490be33f132b855e230e746f54990145fcea083",
       "blender_version": "5.2.44"
     },
     {
