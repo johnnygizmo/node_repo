@@ -1,5 +1,5 @@
 {
-  "asset_count": 26,
+  "asset_count": 25,
   "file_count": 14,
   "assets": [
     {
@@ -186,30 +186,6 @@
             "name": "node_tool_idname",
             "type": "IDP_STRING",
             "value": "geometry.frame_maker_2"
-          }
-        ]
-      }
-    },
-    {
-      "name": "UV Mapping",
-      "id_type": "NODETREE",
-      "files": [
-        "FrameMaker2.blend"
-      ],
-      "bl_versions": {
-        "min": "5.2"
-      },
-      "thumbnail": {
-        "url": "FrameMaker2_thumbnails/Nodetree/uv-mapping.webp",
-        "hash": "SHA256:70ce78ae3e19dbfadc63b4d2507adde5b0b787cc99ac629cf55e9abacd408e10"
-      },
-      "meta": {
-        "catalog_id": "db9631a1-5b38-4f36-8079-3cc8618e54d2",
-        "properties": [
-          {
-            "name": "type",
-            "type": "IDP_INT",
-            "value": 0
           }
         ]
       }
@@ -748,8 +724,8 @@
     },
     {
       "path": "FrameMaker2.blend",
-      "size_in_bytes": 9729087,
-      "hash": "SHA256:7221cc87954e69756ded74c58298bd5eb3f3618374ebd56db9710d7a7cf6deba",
+      "size_in_bytes": 9680844,
+      "hash": "SHA256:414882fbbecfdeae19cfd4868111244629704f5819447a71fa02b1d408cc5d6c",
       "blender_version": "5.2.44"
     },
     {
