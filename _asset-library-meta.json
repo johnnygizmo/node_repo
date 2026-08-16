@@ -1,0 +1,14 @@
+{
+  "api_versions": {
+    "v1": {
+      "url": "_v1/asset-index.json",
+      "hash": "SHA256:b63b0cd65e32ca8dd1848a95a320b5137cba836684e5f6a1f482528b84799610"
+    }
+  },
+  "name": "Johnnygizmo's Node Library",
+  "contact": {
+    "name": "Johnny Matthews",
+    "url": "https://youtube.com/@johnnymatthews",
+    "email": "johnny.matthews+nodes@gmail.com"
+  }
+}
