@@ -1,6 +1,6 @@
 {
-  "asset_count": 44,
-  "file_count": 15,
+  "asset_count": 46,
+  "file_count": 16,
   "assets": [
     {
       "name": "Boolean - Difference Collection",
@@ -186,6 +186,46 @@
             "name": "node_tool_idname",
             "type": "IDP_STRING",
             "value": "geometry.frame_maker_2"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Mappable Function",
+      "id_type": "NODETREE",
+      "files": [
+        "MappableFunction.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "c1562f8d-4987-4682-8202-6c1017a352ec",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          }
+        ]
+      }
+    },
+    {
+      "name": "Quadratic Standard Form",
+      "id_type": "NODETREE",
+      "files": [
+        "MappableFunction.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
+        "catalog_id": "c1562f8d-4987-4682-8202-6c1017a352ec",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
           }
         ]
       }
@@ -1182,6 +1222,12 @@
       "path": "FrameMaker2.blend",
       "size_in_bytes": 9680844,
       "hash": "SHA256:414882fbbecfdeae19cfd4868111244629704f5819447a71fa02b1d408cc5d6c",
+      "blender_version": "5.2.44"
+    },
+    {
+      "path": "MappableFunction.blend",
+      "size_in_bytes": 110544,
+      "hash": "SHA256:ef963b3ea2a8fad170bf926062ebe3032d1b1bfd664a3189f4cc5268abd79f5c",
       "blender_version": "5.2.44"
     },
     {
