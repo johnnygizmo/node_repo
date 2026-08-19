@@ -127,6 +127,10 @@
       "bl_versions": {
         "min": "5.2"
       },
+      "thumbnail": {
+        "url": "curve%20to%20arrow_thumbnails/Nodetree/curve-to-arrow.webp",
+        "hash": "SHA256:e291be7878b4585fcd178c2eaba389d53b67c69629f31bdfb3d6722c6f9ab491"
+      },
       "meta": {
         "properties": [
           {
@@ -1323,8 +1327,8 @@
     },
     {
       "path": "curve to arrow.blend",
-      "size_in_bytes": 115502,
-      "hash": "SHA256:b2499be2e1138860caf06c727dc7a73a90504c331b94eef31ba81996ccfecc92",
+      "size_in_bytes": 131307,
+      "hash": "SHA256:a92a7a9b839dcdc40d9c4edfffd32df33e2753e47394e0a73811f5b22bd74dad",
       "blender_version": "5.2.44",
       "url": "curve%20to%20arrow.blend"
     },
