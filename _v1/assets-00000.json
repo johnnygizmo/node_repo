@@ -1,6 +1,6 @@
 {
-  "asset_count": 46,
-  "file_count": 16,
+  "asset_count": 47,
+  "file_count": 17,
   "assets": [
     {
       "name": "Boolean - Difference Collection",
@@ -104,6 +104,30 @@
       },
       "meta": {
         "catalog_id": "d3d8d449-f1c1-434d-a2c8-8e07c211bdcb",
+        "properties": [
+          {
+            "name": "type",
+            "type": "IDP_INT",
+            "value": 3
+          },
+          {
+            "name": "geometry_node_asset_traits_flag",
+            "type": "IDP_INT",
+            "value": 64
+          }
+        ]
+      }
+    },
+    {
+      "name": "Curve to Arrow",
+      "id_type": "NODETREE",
+      "files": [
+        "curve to arrow.blend"
+      ],
+      "bl_versions": {
+        "min": "5.2"
+      },
+      "meta": {
         "properties": [
           {
             "name": "type",
@@ -1296,6 +1320,13 @@
       "size_in_bytes": 112449,
       "hash": "SHA256:a0d13e2fc5f2a806b3c54a04819effd6d799074177c77025af902e761586b855",
       "blender_version": "5.2.44"
+    },
+    {
+      "path": "curve to arrow.blend",
+      "size_in_bytes": 115502,
+      "hash": "SHA256:b2499be2e1138860caf06c727dc7a73a90504c331b94eef31ba81996ccfecc92",
+      "blender_version": "5.2.44",
+      "url": "curve%20to%20arrow.blend"
     },
     {
       "path": "trigplus.blend",
